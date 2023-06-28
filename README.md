@@ -19,13 +19,6 @@ Deskripsi singkat tentang proyekmu dan apa yang ingin dicapai.
 - Fitur 2: Penjelasan fitur 2
 - Fitur 3: Penjelasan fitur 3
 
-## Instalasi
-
-Berikut adalah langkah-langkah untuk menginstal proyekmu secara lokal.
-
-1. Langkah pertama
-   ```sh
-   perintah_pertama
 
 ### Hello there, nice to see you here 👋
 <div id="header" align="center">
