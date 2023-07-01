@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Risfandhiani</h1>
-<h3 align="center">Just a Feeble Scholar of Informatics</h3>
+<h3 align="center">Just a Feeble Scholar of Informatics 🌱 </h3> 
 
-- 🌱 I’m currently learning **Frameworks, Backend, Frontend, etc**
+- I’m currently learning **Frameworks, Backend, Frontend, etc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
