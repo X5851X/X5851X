@@ -12,5 +12,6 @@
 <a href="https://twitter.com/roxxanyan" target="blank"><img align="center" src="img/twitter.png" alt="roxxanyan" height="30" width="30" /></a>
 <a href="https://instagram.com/ris_fani" target="blank"><img align="center" src="img/instagram.png" alt="ris_fani" height="30" width="30" /></a>
 <a href="https://www.tiktok.com/@_alkrea?_t=8eBpUPnuoP1&_r=1" target="blank"><img align="center" src="img/tiktok.png" alt="alkrea" height="30" width="30" /></a>
-<a href="https://discord.com/users/549909382989873172" target="blank"><img align="center" src="img/discord.png" alt="R." height="40" width="30" /></a> 
+<a href="https://discord.com/users/549909382989873172" target="blank"><img align="center" src="img/discord.png" alt="R." height="40" width="30" /></a>
+<a href="https://steamcommunity.com/id/Alkr3a/" target="blank"><img align="center" src="img/steam.png" alt="risfan" height="30" width="30" /></a>  
 </p>
