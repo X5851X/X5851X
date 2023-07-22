@@ -7,7 +7,6 @@
 <p align="left">
 <a href="https://twitter.com/roxxanyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roxxanyan" height="30" width="40" /></a>
 <a href="https://instagram.com/ris_fani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ris_fani" height="30" width="40" /></a>
-<a href="https://discord.gg/549909382989873172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="549909382989873172" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
