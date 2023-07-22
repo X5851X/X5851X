@@ -5,6 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/risfandhiani/" target="blank"><img align="center" src="img/twitter.png" alt="roxxanyan" height="30" width="30" /></a>
 <a href="https://twitter.com/roxxanyan" target="blank"><img align="center" src="img/twitter.png" alt="roxxanyan" height="30" width="30" /></a>
 <a href="https://instagram.com/ris_fani" target="blank"><img align="center" src="img/instagram.png" alt="ris_fani" height="30" width="30" /></a>
 <a href="https://www.tiktok.com/@_alkrea?_t=8eBpUPnuoP1&_r=1" target="blank"><img align="center" src="img/tiktok.png" alt="alkrea" height="30" width="30" /></a>
