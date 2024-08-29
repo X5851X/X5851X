@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **[Golang](https://www.freecodecamp.org/news/golang-for-beginners/)**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, Cloud Computing, DevOps**
-- 📫 How to reach me: **[Click here to connect!](#connect-with-me)**
+- 📫 How to reach me: **[Click here to connect!](#-connect-with-me)**
 
 <!-- Progress bars -->
 ## 🚀 My Skills
@@ -36,10 +36,16 @@
 <!-- Social media links -->
 ## 🌐 Connect with Me
 
+<details>
+  <summary>Click to see contact options</summary>
+</br>
+  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/risfandhiani/)](https://www.linkedin.com/in/risfandhiani/)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=X&logoColor=white&link=https://x.com/Alkrrea)](https://x.com/Alkrrea)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/ris_fani)](https://instagram.com/ris_fani)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/r.5851)](https://discord.com/users/r.5851)
+
+</details>
 
 <!-- GitHub stats -->
 ## 📊 GitHub Stats
@@ -62,4 +68,4 @@
 
 <!-- Footer -->
 ---
-⭐️ From [R.](https://github.com/X5851X)
+⭐️ From [Risfa](https://github.com/X5851X)
