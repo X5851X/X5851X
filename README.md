@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **[Golang](https://www.freecodecamp.org/news/golang-for-beginners/)**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development, Cloud Computing, DevOps**
-- 📫 How to reach me: **[risfandhiani@gmail.com](mailto:risfandhiani@gmail.com)**
+- 📫 How to reach me: **[Click here to connect!](#connect-with-me)**
 
 <!-- Progress bars -->
 ## 🚀 My Skills
