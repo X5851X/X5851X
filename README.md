@@ -45,14 +45,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=X5851X&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=X5851X&theme=radical" alt="GitHub Streak" width="400"/>
 </p>
 
 <!-- Contributions section -->
 ## 🏆 Achievements
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=X5851X&theme=radical)
 
 <!-- Fun section or additional content -->
 ## 🎮 Hobbies & Interests
