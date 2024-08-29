@@ -1,6 +1,6 @@
 <!-- Header with your name and title -->
 <h1 align="center">Hi there, I'm <a href="https://yourportfolio.com" target="_blank">Risfandhiani</a>👋</h1>
-<h3 align="center">A Passionate Developer Student 🦅</h3>
+<h3 align="center">A Feeble Developer Student 🦅</h3>
 
 <!-- GIF image -->
 <p align="center">
