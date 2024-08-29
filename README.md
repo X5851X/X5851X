@@ -1,14 +1,65 @@
-<h1 align="center">Hi 👋, I'm Risfandhiani</h1>
-<h3 align="center">Just a Feeble Scholar of Informatics 🌱 </h3> 
+<!-- Header with your name and title -->
+<h1 align="center">Hi there, I'm <a href="https://yourportfolio.com" target="_blank">Risfandhiani</a>👋</h1>
+<h3 align="center">A Passionate Developer Student 🦅</h3>
 
-- I’m currently learning **Frameworks, Backend, Frontend, etc**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/risfandhiani/" target="blank"><img align="center" src="img/linkedin.png" alt="risfandhiani" height="30" width="30" /></a>
-<a href="https://www.tiktok.com/@_alkrea?_t=8eBpUPnuoP1&_r=1" target="blank"><img align="center" src="img/tiktok.png" alt="alkrea" height="30" width="30" /></a>
-<a href="https://discord.com/users/549909382989873172" target="blank"><img align="center" src="img/discord.png" alt="R." height="40" width="30" /></a>
+<!-- GIF image -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="GIF" width="500"/>
 </p>
+
+<!-- About section -->
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **[Portofolio](https://github.com/X5851X/Portofolio)**
+- 🌱 I’m currently learning **[Golang](https://www.freecodecamp.org/news/golang-for-beginners/)**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Web Development, Cloud Computing, DevOps**
+- 📫 How to reach me: **[risfandhiani@gmail.com](mailto:risfandhiani@gmail.com)**
+
+<!-- Progress bars -->
+## 🚀 My Skills
+
+![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square) ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square)
+
+**Languages:**
+
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square) ![Java](https://img.shields.io/badge/-Java-red?style=flat-square)
+
+**Tools & Technologies:**
+
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square) ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square) ![GCP](https://img.shields.io/badge/-GCP-blue?style=flat-square)
+
+**Currently Learning:**
+
+![GraphQL](https://img.shields.io/badge/-GraphQL-pink?style=flat-square) ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square)
+
+<!-- Social media links -->
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/risfandhiani/)](https://www.linkedin.com/in/risfandhiani/)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=X&logoColor=white&link=https://x.com/Alkrrea)](https://x.com/Alkrrea)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/ris_fani)](https://instagram.com/ris_fani)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/r.5851)](https://discord.com/users/r.5851)
+
+<!-- GitHub stats -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" width="400"/>
+</p>
+
+<!-- Contributions section -->
+## 🏆 Achievements
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
+
+<!-- Fun section or additional content -->
+## 🎮 Hobbies & Interests
+
+- 🕹️ Gaming: I love playing RPGs and strategy games.
+- 🎨 Art: I enjoy digital painting and design.
+
+<!-- Footer -->
+---
+⭐️ From [R.](https://github.com/X5851X)
